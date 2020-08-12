@@ -1,3 +1,4 @@
+#使用git来管理了的文件
 use strict;
 use warnings;
 my %kids_of_wife;
